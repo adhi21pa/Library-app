@@ -24,49 +24,7 @@ const ViewAll = () => {
       <td>1996</td>
       <td>250</td>
     </tr>
-    <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-    </tr>
-    <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-      </tr>
-      <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-      </tr>
-      <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-      </tr>
-      <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-      </tr>
-      <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-      </tr>
-      <tr>
-    <th scope="row">Alchemist</th>
-      <td>Paulo cohelo</td>
-      <td>1996</td>
-      <td>250</td>
-      </tr>
-
+    
   </tbody>
 </table>
                 </div>
